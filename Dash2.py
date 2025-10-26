@@ -371,5 +371,4 @@ def update_life_exp_chart(continent, year):
 def update_map(var_map, year):
     return create_choropleth_map(var_map, year)
 
-if __name__ == "__main__":
-    app.run(debug=True)
+ 
